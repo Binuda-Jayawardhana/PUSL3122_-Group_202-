@@ -11,11 +11,11 @@
 **Design Studio** is a professional-grade interior design application developed for a bespoke furniture company. [cite_start]It bridges the gap between 2D technical planning and immersive 3D visualization, allowing in-store designers to collaborate with customers on custom room layouts and furniture configurations [cite: 172-174]. [cite_start]The application solves the spatial uncertainty customers face by providing a realistic digital preview of furniture within their specific room dimensions[cite: 172].
 
 ### Core Features (Module Requirements)
-* [cite_start]**Admin Access:** Secure role-based login and a "Design Dashboard" for managing (CRUD) saved projects [cite: 175-176, 183-184].
-* [cite_start]**2D Floor Planner:** Interactive drawing tool for custom room shapes, including L-shaped and open-plan layouts [cite: 177-178].
-* [cite_start]**3D Rendering Engine:** Real-time extrusion of 2D plans into a 3D environment using **Three.js**[cite: 175, 179].
-* [cite_start]**Furniture Interaction:** Ability to add, scale, rotate, and move furniture items like chairs and tables[cite: 180].
-* [cite_start]**Aesthetic Customization:** Change colors and add realistic shading to simulate specific color schemes [cite: 181-182].
+* **Admin Access:** Secure role-based login and a "Design Dashboard" for managing (CRUD) saved projects [cite: 175-176, 183-184].
+* **2D Floor Planner:** Interactive drawing tool for custom room shapes, including L-shaped and open-plan layouts [cite: 177-178].
+* **3D Rendering Engine:** Real-time extrusion of 2D plans into a 3D environment using **Three.js**[cite: 175, 179].
+* **Furniture Interaction:** Ability to add, scale, rotate, and move furniture items like chairs and tables[cite: 180].
+* **Aesthetic Customization:** Change colors and add realistic shading to simulate specific color schemes [cite: 181-182].
 * **Proposal Export:** Integrated PDF export for design quotes using the `jspdf` library.
 
 ---
